@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/test-redis":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/test-redis","hostpath":"/Users/longmknguyen/DevWork/test-redis","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/longmknguyen/DevWork/test-redis","disabled":false,"__vagrantfile":true}}}
